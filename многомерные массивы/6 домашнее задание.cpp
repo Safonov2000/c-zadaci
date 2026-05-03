@@ -39,7 +39,7 @@ int main() {
 	int d2 = A[0][2]; A[1][1]; A[2][0]; // Побочная диагональ
 
 
-	for(int i=0; i<1; i++){
+	for(int i=0; i<3; i++){
 
 		if(magic == s3 && magic == s4 && magic == s5 && magic == d1 && magic == d2 && s1 == s3 &&
 		
